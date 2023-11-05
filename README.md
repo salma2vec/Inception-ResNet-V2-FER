@@ -5,7 +5,7 @@
 ## Overview
 
 This PyTorch model is based on the Inception-ResNet-V2 architecture and is designed for facial emotion recognition. 
-- Written in PyTorch, this model has a total of **26 high-level blocks** and can classify upto **1001** different classes of images. 
+- This model has a total of **26 high-level blocks** and can classify upto **1001** different classes of images. 
 - It has a complete depth of 164 layers.
 - The model has a depth of 164 layers with **input-size** = `3 x 299 x 299`.
 
